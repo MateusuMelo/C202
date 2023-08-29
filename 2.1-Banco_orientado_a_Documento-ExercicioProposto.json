@@ -1,0 +1,18 @@
+{
+	"nome": "Jeremias Giuliano Gomes",
+	"idade": 29,
+	"profissao":"Encanador",
+	"parentesco":[
+		{
+			"nome": "Jeferson Comadre Gomes",
+			"idade": 64,
+			"profissao":"Motorista"
+		},
+		{
+			"nome": "Janaina Giuliana silva",
+			"idade": 58,
+			"profissao":"Professora"
+		}
+	],
+	"endereço":{"rua" :"Juliano jolter", "numero":"456", "bairro":"Jetulio","cidade":"jacutinga","cep":"3554-000", "estado":"Minas Gerais"}
+}
