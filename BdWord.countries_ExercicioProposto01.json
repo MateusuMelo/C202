@@ -1,0 +1,912 @@
+[{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc305e"
+  },
+  "name": {
+    "common": "Anguilla",
+    "native": {
+      "eng": {
+        "common": "Anguilla",
+        "official": "Anguilla"
+      }
+    },
+    "official": "Anguilla"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3070"
+  },
+  "name": {
+    "common": "Bahamas",
+    "native": {
+      "eng": {
+        "common": "Bahamas",
+        "official": "Commonwealth of the Bahamas"
+      }
+    },
+    "official": "Commonwealth of the Bahamas"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3072"
+  },
+  "name": {
+    "common": "Saint Barthélemy",
+    "native": {
+      "fra": {
+        "common": "Saint-Barthélemy",
+        "official": "Collectivité de Saint Barthélemy BarthélemySaint"
+      }
+    },
+    "official": "Collectivity of Saint BarthélemySaint Barthélemy"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3073"
+  },
+  "name": {
+    "common": "Belize",
+    "native": {
+      "bjz": {
+        "common": "Belize",
+        "official": "Belize"
+      },
+      "eng": {
+        "common": "Belize",
+        "official": "Belize"
+      },
+      "spa": {
+        "common": "Belice",
+        "official": "Belice"
+      }
+    },
+    "official": "Belize"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3074"
+  },
+  "name": {
+    "common": "Bermuda",
+    "native": {
+      "eng": {
+        "common": "Bermuda",
+        "official": "Bermuda"
+      }
+    },
+    "official": "Bermuda"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3076"
+  },
+  "name": {
+    "common": "Bolivia",
+    "native": {
+      "aym": {
+        "common": "Wuliwya",
+        "official": "Wuliwya Suyu"
+      },
+      "grn": {
+        "common": "Volívia",
+        "official": "Tetã Volívia"
+      },
+      "que": {
+        "common": "Buliwya",
+        "official": "Buliwya Mamallaqta"
+      },
+      "spa": {
+        "common": "Bolivia",
+        "official": "Estado Plurinacional de Bolivia"
+      }
+    },
+    "official": "Plurinational State of Bolivia"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3077"
+  },
+  "name": {
+    "common": "Antigua and Barbuda",
+    "native": {
+      "eng": {
+        "common": "Antigua and Barbuda",
+        "official": "Antigua and Barbuda"
+      }
+    },
+    "official": "Antigua and Barbuda"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3078"
+  },
+  "name": {
+    "common": "Brazil",
+    "native": {
+      "por": {
+        "common": "Brasil",
+        "official": "República Federativa do Brasil"
+      }
+    },
+    "official": "Federative Republic of Brazil"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc307b"
+  },
+  "name": {
+    "common": "Argentina",
+    "native": {
+      "grn": {
+        "common": "Argentina",
+        "official": "Argentine Republic"
+      },
+      "spa": {
+        "common": "Argentina",
+        "official": "República Argentina"
+      }
+    },
+    "official": "Argentine Republic"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc307f"
+  },
+  "name": {
+    "common": "Aruba",
+    "native": {
+      "nld": {
+        "common": "Aruba",
+        "official": "Aruba"
+      },
+      "pap": {
+        "common": "Aruba",
+        "official": "Aruba"
+      }
+    },
+    "official": "Aruba"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3082"
+  },
+  "name": {
+    "common": "Barbados",
+    "native": {
+      "eng": {
+        "common": "Barbados",
+        "official": "Barbados"
+      }
+    },
+    "official": "Barbados"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3087"
+  },
+  "name": {
+    "common": "Chile",
+    "native": {
+      "spa": {
+        "common": "Chile",
+        "official": "República de Chile"
+      }
+    },
+    "official": "Republic of Chile"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc308a"
+  },
+  "name": {
+    "common": "Canada",
+    "native": {
+      "eng": {
+        "common": "Canada",
+        "official": "Canada"
+      },
+      "fra": {
+        "common": "Canada",
+        "official": "Canada"
+      }
+    },
+    "official": "Canada"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc308c"
+  },
+  "name": {
+    "common": "Cuba",
+    "native": {
+      "spa": {
+        "common": "Cuba",
+        "official": "República de Cuba"
+      }
+    },
+    "official": "Republic of Cuba"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc308d"
+  },
+  "name": {
+    "common": "Curaçao",
+    "native": {
+      "eng": {
+        "common": "Curaçao",
+        "official": "Country of Curaçao"
+      },
+      "nld": {
+        "common": "Curaçao",
+        "official": "Land Curaçao"
+      },
+      "pap": {
+        "common": "Pais Kòrsou",
+        "official": "Pais Kòrsou"
+      }
+    },
+    "official": "Country of Curaçao"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc308e"
+  },
+  "name": {
+    "common": "Colombia",
+    "native": {
+      "spa": {
+        "common": "Colombia",
+        "official": "República de Colombia"
+      }
+    },
+    "official": "Republic of Colombia"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3091"
+  },
+  "name": {
+    "common": "Costa Rica",
+    "native": {
+      "spa": {
+        "common": "Costa Rica",
+        "official": "República de Costa Rica"
+      }
+    },
+    "official": "Republic of Costa Rica"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3095"
+  },
+  "name": {
+    "common": "Cayman Islands",
+    "native": {
+      "eng": {
+        "common": "Cayman Islands",
+        "official": "Cayman Islands"
+      }
+    },
+    "official": "Cayman Islands"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3099"
+  },
+  "name": {
+    "common": "Dominica",
+    "native": {
+      "eng": {
+        "common": "Dominica",
+        "official": "Commonwealth of Dominica"
+      }
+    },
+    "official": "Commonwealth of Dominica"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc309c"
+  },
+  "name": {
+    "common": "Dominican Republic",
+    "native": {
+      "spa": {
+        "common": "República Dominicana",
+        "official": "República Dominicana"
+      }
+    },
+    "official": "Dominican Republic"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30a4"
+  },
+  "name": {
+    "common": "Falkland Islands",
+    "native": {
+      "eng": {
+        "common": "Falkland Islands",
+        "official": "Falkland Islands"
+      }
+    },
+    "official": "Falkland Islands"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30b0"
+  },
+  "name": {
+    "common": "Ecuador",
+    "native": {
+      "spa": {
+        "common": "Ecuador",
+        "official": "República del Ecuador"
+      }
+    },
+    "official": "Republic of Ecuador"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30b2"
+  },
+  "name": {
+    "common": "Guadeloupe",
+    "native": {
+      "fra": {
+        "common": "Guadeloupe",
+        "official": "Guadeloupe"
+      }
+    },
+    "official": "Guadeloupe"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30b6"
+  },
+  "name": {
+    "common": "Guyana",
+    "native": {
+      "eng": {
+        "common": "Guyana",
+        "official": "Co-operative Republic of Guyana"
+      }
+    },
+    "official": "Co-operative Republic of Guyana"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30b7"
+  },
+  "name": {
+    "common": "Grenada",
+    "native": {
+      "eng": {
+        "common": "Grenada",
+        "official": "Grenada"
+      }
+    },
+    "official": "Grenada"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30b8"
+  },
+  "name": {
+    "common": "Honduras",
+    "native": {
+      "spa": {
+        "common": "Honduras",
+        "official": "República de Honduras"
+      }
+    },
+    "official": "Republic of Honduras"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30b9"
+  },
+  "name": {
+    "common": "Greenland",
+    "native": {
+      "kal": {
+        "common": "Kalaallit Nunaat",
+        "official": "Kalaallit Nunaat"
+      }
+    },
+    "official": "Greenland"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30ba"
+  },
+  "name": {
+    "common": "French Guiana",
+    "native": {
+      "fra": {
+        "common": "Guyane française",
+        "official": "Guyanes"
+      }
+    },
+    "official": "Guiana"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30c6"
+  },
+  "name": {
+    "common": "Jamaica",
+    "native": {
+      "eng": {
+        "common": "Jamaica",
+        "official": "Jamaica"
+      },
+      "jam": {
+        "common": "Jamaica",
+        "official": "Jamaica"
+      }
+    },
+    "official": "Jamaica"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30d1"
+  },
+  "name": {
+    "common": "Guatemala",
+    "native": {
+      "spa": {
+        "common": "Guatemala",
+        "official": "República de Guatemala"
+      }
+    },
+    "official": "Republic of Guatemala"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30d6"
+  },
+  "name": {
+    "common": "Saint Kitts and Nevis",
+    "native": {
+      "eng": {
+        "common": "Saint Kitts and Nevis",
+        "official": "Federation of Saint Christopher and Nevisa"
+      }
+    },
+    "official": "Federation of Saint Christopher and Nevisa"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30d7"
+  },
+  "name": {
+    "common": "Saint Lucia",
+    "native": {
+      "eng": {
+        "common": "Saint Lucia",
+        "official": "Saint Lucia"
+      }
+    },
+    "official": "Saint Lucia"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30d9"
+  },
+  "name": {
+    "common": "Haiti",
+    "native": {
+      "fra": {
+        "common": "Haïti",
+        "official": "République d'Haïti"
+      },
+      "hat": {
+        "common": "Ayiti",
+        "official": "Repiblik Ayiti"
+      }
+    },
+    "official": "Republic of Haiti"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30f1"
+  },
+  "name": {
+    "common": "Montserrat",
+    "native": {
+      "eng": {
+        "common": "Montserrat",
+        "official": "Montserrat"
+      }
+    },
+    "official": "Montserrat"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30f5"
+  },
+  "name": {
+    "common": "Martinique",
+    "native": {
+      "fra": {
+        "common": "Martinique",
+        "official": "Martinique"
+      }
+    },
+    "official": "Martinique"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30f7"
+  },
+  "name": {
+    "common": "Mexico",
+    "native": {
+      "spa": {
+        "common": "México",
+        "official": "Estados Unidos Mexicanos"
+      }
+    },
+    "official": "United Mexican States"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30f8"
+  },
+  "name": {
+    "common": "Saint Martin",
+    "native": {
+      "fra": {
+        "common": "Saint-Martin",
+        "official": "Saint-Martin"
+      }
+    },
+    "official": "Saint Martin"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30fc"
+  },
+  "name": {
+    "common": "Nicaragua",
+    "native": {
+      "spa": {
+        "common": "Nicaragua",
+        "official": "República de Nicaragua"
+      }
+    },
+    "official": "Republic of Nicaragua"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3104"
+  },
+  "name": {
+    "common": "Panama",
+    "native": {
+      "spa": {
+        "common": "Panamá",
+        "official": "República de Panamá"
+      }
+    },
+    "official": "Republic of Panama"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3106"
+  },
+  "name": {
+    "common": "Peru",
+    "native": {
+      "aym": {
+        "common": "Piruw",
+        "official": "Piruw Suyu"
+      },
+      "que": {
+        "common": "Piruw",
+        "official": "Piruw Ripuwlika"
+      },
+      "spa": {
+        "common": "Perú",
+        "official": "República del Perú"
+      }
+    },
+    "official": "Republic of Peru"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc310d"
+  },
+  "name": {
+    "common": "Puerto Rico",
+    "native": {
+      "eng": {
+        "common": "Puerto Rico",
+        "official": "Commonwealth of Puerto Rico"
+      },
+      "spa": {
+        "common": "Puerto Rico",
+        "official": "Estado Libre Asociado de Puerto Rico"
+      }
+    },
+    "official": "Commonwealth of Puerto Rico"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3111"
+  },
+  "name": {
+    "common": "Paraguay",
+    "native": {
+      "grn": {
+        "common": "Paraguái",
+        "official": "Tetã Paraguái"
+      },
+      "spa": {
+        "common": "Paraguay",
+        "official": "República de Paraguay"
+      }
+    },
+    "official": "Republic of Paraguay"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3120"
+  },
+  "name": {
+    "common": "South Georgia",
+    "native": {
+      "eng": {
+        "common": "South Georgia",
+        "official": "South Georgia and the South Sandwich Islands"
+      }
+    },
+    "official": "South Georgia and the South Sandwich Islands"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3124"
+  },
+  "name": {
+    "common": "El Salvador",
+    "native": {
+      "spa": {
+        "common": "El Salvador",
+        "official": "República de El Salvador"
+      }
+    },
+    "official": "Republic of El Salvador"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3127"
+  },
+  "name": {
+    "common": "Saint Pierre and Miquelon",
+    "native": {
+      "fra": {
+        "common": "Saint-Pierre-et-Miquelon",
+        "official": "Collectivité territoriale de Saint-Pierre-et-Miquelon"
+      }
+    },
+    "official": "Saint Pierre and Miquelon"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc312d"
+  },
+  "name": {
+    "common": "Sint Maarten",
+    "native": {
+      "eng": {
+        "common": "Sint Maarten",
+        "official": "Sint Maarten"
+      },
+      "fra": {
+        "common": "Saint-Martin",
+        "official": "Saint-Martin"
+      },
+      "nld": {
+        "common": "Sint Maarten",
+        "official": "Sint Maarten"
+      }
+    },
+    "official": "Sint Maarten"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3130"
+  },
+  "name": {
+    "common": "Turks and Caicos Islands",
+    "native": {
+      "eng": {
+        "common": "Turks and Caicos Islands",
+        "official": "Turks and Caicos Islands"
+      }
+    },
+    "official": "Turks and Caicos Islands"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3141"
+  },
+  "name": {
+    "common": "United States Minor Outlying Islands",
+    "native": {
+      "eng": {
+        "common": "United States Minor Outlying Islands",
+        "official": "United States Minor Outlying Islands"
+      }
+    },
+    "official": "United States Minor Outlying Islands"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3143"
+  },
+  "name": {
+    "common": "Suriname",
+    "native": {
+      "nld": {
+        "common": "Suriname",
+        "official": "Republiek Suriname"
+      }
+    },
+    "official": "Republic of Suriname"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3145"
+  },
+  "name": {
+    "common": "Saint Vincent and the Grenadines",
+    "native": {
+      "eng": {
+        "common": "Saint Vincent and the Grenadines",
+        "official": "Saint Vincent and the Grenadines"
+      }
+    },
+    "official": "Saint Vincent and the Grenadines"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3146"
+  },
+  "name": {
+    "common": "Venezuela",
+    "native": {
+      "spa": {
+        "common": "Venezuela",
+        "official": "República Bolivariana de Venezuela"
+      }
+    },
+    "official": "Bolivarian Republic of Venezuela"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3147"
+  },
+  "name": {
+    "common": "British Virgin Islands",
+    "native": {
+      "eng": {
+        "common": "British Virgin Islands",
+        "official": "Virgin Islands"
+      }
+    },
+    "official": "Virgin Islands"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3148"
+  },
+  "name": {
+    "common": "United States Virgin Islands",
+    "native": {
+      "eng": {
+        "common": "United States Virgin Islands",
+        "official": "Virgin Islands of the United States"
+      }
+    },
+    "official": "Virgin Islands of the United States"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc314b"
+  },
+  "name": {
+    "common": "Uruguay",
+    "native": {
+      "spa": {
+        "common": "Uruguay",
+        "official": "República Oriental del Uruguay"
+      }
+    },
+    "official": "Oriental Republic of Uruguay"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc314f"
+  },
+  "name": {
+    "common": "Trinidad and Tobago",
+    "native": {
+      "eng": {
+        "common": "Trinidad and Tobago",
+        "official": "Republic of Trinidad and Tobago"
+      }
+    },
+    "official": "Republic of Trinidad and Tobago"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3153"
+  },
+  "name": {
+    "common": "United States",
+    "native": {
+      "eng": {
+        "common": "United States",
+        "official": "United States of America"
+      }
+    },
+    "official": "United States of America"
+  }
+}]

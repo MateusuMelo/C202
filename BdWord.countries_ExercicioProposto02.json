@@ -1,0 +1,206 @@
+[{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3060"
+  },
+  "latlng": [
+    -12.5,
+    18.5
+  ],
+  "name": {
+    "common": "Angola",
+    "native": {
+      "por": {
+        "common": "Angola",
+        "official": "República de Angola"
+      }
+    },
+    "official": "Republic of Angola"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3078"
+  },
+  "latlng": [
+    -10,
+    -55
+  ],
+  "name": {
+    "common": "Brazil",
+    "native": {
+      "por": {
+        "common": "Brasil",
+        "official": "República Federativa do Brasil"
+      }
+    },
+    "official": "Federative Republic of Brazil"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3090"
+  },
+  "latlng": [
+    16,
+    -24
+  ],
+  "name": {
+    "common": "Cape Verde",
+    "native": {
+      "por": {
+        "common": "Cabo Verde",
+        "official": "República de Cabo Verde"
+      }
+    },
+    "official": "Republic of Cabo Verde"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30af"
+  },
+  "latlng": [
+    2,
+    10
+  ],
+  "name": {
+    "common": "Equatorial Guinea",
+    "native": {
+      "fra": {
+        "common": "Guinée équatoriale",
+        "official": "République de la Guinée Équatoriale"
+      },
+      "por": {
+        "common": "Guiné Equatorial",
+        "official": "República da Guiné Equatorial"
+      },
+      "spa": {
+        "common": "Guinea Ecuatorial",
+        "official": "República de Guinea Ecuatorial"
+      }
+    },
+    "official": "Republic of Equatorial Guinea"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30b4"
+  },
+  "latlng": [
+    12,
+    -15
+  ],
+  "name": {
+    "common": "Guinea-Bissau",
+    "native": {
+      "por": {
+        "common": "Guiné-Bissau",
+        "official": "República da Guiné-Bissau"
+      }
+    },
+    "official": "Republic of Guinea-Bissau"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30e5"
+  },
+  "latlng": [
+    22.16666666,
+    113.55
+  ],
+  "name": {
+    "common": "Macau",
+    "native": {
+      "por": {
+        "common": "Macau",
+        "official": "Região Administrativa Especial de Macau da República Popular da China"
+      },
+      "zho": {
+        "common": "澳門",
+        "official": "澳门特别行政区中国人民共和国"
+      }
+    },
+    "official": "Macao Special Administrative Region of the People's Republic of China"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30f0"
+  },
+  "latlng": [
+    -18.25,
+    35
+  ],
+  "name": {
+    "common": "Mozambique",
+    "native": {
+      "por": {
+        "common": "Moçambique",
+        "official": "República de Moçambique"
+      }
+    },
+    "official": "Republic of Mozambique"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc310f"
+  },
+  "latlng": [
+    39.5,
+    -8
+  ],
+  "name": {
+    "common": "Portugal",
+    "native": {
+      "por": {
+        "common": "Portugal",
+        "official": "República português"
+      }
+    },
+    "official": "Portuguese Republic"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc312a"
+  },
+  "latlng": [
+    1,
+    7
+  ],
+  "name": {
+    "common": "São Tomé and Príncipe",
+    "native": {
+      "por": {
+        "common": "São Tomé e Príncipe",
+        "official": "República Democrática do São Tomé e Príncipe"
+      }
+    },
+    "official": "Democratic Republic of São Tomé and Príncipe"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3139"
+  },
+  "latlng": [
+    -8.83333333,
+    125.91666666
+  ],
+  "name": {
+    "common": "Timor-Leste",
+    "native": {
+      "por": {
+        "common": "Timor-Leste",
+        "official": "República Democrática de Timor-Leste"
+      },
+      "tet": {
+        "common": "Timór-Leste",
+        "official": "Repúblika Demokrátika Timór-Leste"
+      }
+    },
+    "official": "Democratic Republic of Timor-Leste"
+  }
+}]

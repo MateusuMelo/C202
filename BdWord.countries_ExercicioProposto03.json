@@ -1,0 +1,363 @@
+[{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc307a"
+  },
+  "name": {
+    "common": "Bouvet Island",
+    "native": {
+      "nor": {
+        "common": "Bouvetøya",
+        "official": "Bouvetøya"
+      }
+    },
+    "official": "Bouvet Island"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3074"
+  },
+  "name": {
+    "common": "Bermuda",
+    "native": {
+      "eng": {
+        "common": "Bermuda",
+        "official": "Bermuda"
+      }
+    },
+    "official": "Bermuda"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc30c1"
+  },
+  "name": {
+    "common": "British Indian Ocean Territory",
+    "native": {
+      "eng": {
+        "common": "British Indian Ocean Territory",
+        "official": "British Indian Ocean Territory"
+      }
+    },
+    "official": "British Indian Ocean Territory"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3147"
+  },
+  "name": {
+    "common": "British Virgin Islands",
+    "native": {
+      "eng": {
+        "common": "British Virgin Islands",
+        "official": "Virgin Islands"
+      }
+    },
+    "official": "Virgin Islands"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3082"
+  },
+  "name": {
+    "common": "Barbados",
+    "native": {
+      "eng": {
+        "common": "Barbados",
+        "official": "Barbados"
+      }
+    },
+    "official": "Barbados"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc307e"
+  },
+  "name": {
+    "common": "Bahrain",
+    "native": {
+      "ara": {
+        "common": "‏البحرين",
+        "official": "مملكة البحرين"
+      }
+    },
+    "official": "Kingdom of Bahrain"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3079"
+  },
+  "name": {
+    "common": "Brunei",
+    "native": {
+      "msa": {
+        "common": "Negara Brunei Darussalam",
+        "official": "Nation of Brunei, Abode Damai"
+      }
+    },
+    "official": "Nation of Brunei, Abode of Peace"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3070"
+  },
+  "name": {
+    "common": "Bahamas",
+    "native": {
+      "eng": {
+        "common": "Bahamas",
+        "official": "Commonwealth of the Bahamas"
+      }
+    },
+    "official": "Commonwealth of the Bahamas"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3073"
+  },
+  "name": {
+    "common": "Belize",
+    "native": {
+      "bjz": {
+        "common": "Belize",
+        "official": "Belize"
+      },
+      "eng": {
+        "common": "Belize",
+        "official": "Belize"
+      },
+      "spa": {
+        "common": "Belice",
+        "official": "Belice"
+      }
+    },
+    "official": "Belize"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc306a"
+  },
+  "name": {
+    "common": "Burundi",
+    "native": {
+      "fra": {
+        "common": "Burundi",
+        "official": "République du Burundi"
+      },
+      "run": {
+        "common": "Uburundi",
+        "official": "Republika y'Uburundi "
+      }
+    },
+    "official": "Republic of Burundi"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc306b"
+  },
+  "name": {
+    "common": "Belgium",
+    "native": {
+      "deu": {
+        "common": "Belgien",
+        "official": "Königreich Belgien"
+      },
+      "fra": {
+        "common": "Belgique",
+        "official": "Royaume de Belgique"
+      },
+      "nld": {
+        "common": "België",
+        "official": "Koninkrijk België"
+      }
+    },
+    "official": "Kingdom of Belgium"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc307c"
+  },
+  "name": {
+    "common": "Bhutan",
+    "native": {
+      "dzo": {
+        "common": "འབྲུག་ཡུལ་",
+        "official": "འབྲུག་རྒྱལ་ཁབ་"
+      }
+    },
+    "official": "Kingdom of Bhutan"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3071"
+  },
+  "name": {
+    "common": "Bosnia and Herzegovina",
+    "native": {
+      "bos": {
+        "common": "Bosna i Hercegovina",
+        "official": "Bosna i Hercegovina"
+      },
+      "hrv": {
+        "common": "Bosna i Hercegovina",
+        "official": "Bosna i Hercegovina"
+      },
+      "srp": {
+        "common": "Боснa и Херцеговина",
+        "official": "Боснa и Херцеговина"
+      }
+    },
+    "official": "Bosnia and Herzegovina"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc306f"
+  },
+  "name": {
+    "common": "Bulgaria",
+    "native": {
+      "bul": {
+        "common": "България",
+        "official": "Република България"
+      }
+    },
+    "official": "Republic of Bulgaria"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc306c"
+  },
+  "name": {
+    "common": "Benin",
+    "native": {
+      "fra": {
+        "common": "Bénin",
+        "official": "République du Bénin"
+      }
+    },
+    "official": "Republic of Benin"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc306e"
+  },
+  "name": {
+    "common": "Bangladesh",
+    "native": {
+      "ben": {
+        "common": "বাংলাদেশ",
+        "official": "বাংলাদেশ গণপ্রজাতন্ত্রী"
+      }
+    },
+    "official": "People's Republic of Bangladesh"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc307d"
+  },
+  "name": {
+    "common": "Belarus",
+    "native": {
+      "bel": {
+        "common": "Белару́сь",
+        "official": "Рэспубліка Беларусь"
+      },
+      "rus": {
+        "common": "Белоруссия",
+        "official": "Республика Беларусь"
+      }
+    },
+    "official": "Republic of Belarus"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc306d"
+  },
+  "name": {
+    "common": "Burkina Faso",
+    "native": {
+      "fra": {
+        "common": "Burkina Faso",
+        "official": "Burkina Faso"
+      }
+    },
+    "official": "Burkina Faso"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3081"
+  },
+  "name": {
+    "common": "Botswana",
+    "native": {
+      "eng": {
+        "common": "Botswana",
+        "official": "Republic of Botswana"
+      },
+      "tsn": {
+        "common": "Botswana",
+        "official": "Lefatshe la Botswana"
+      }
+    },
+    "official": "Republic of Botswana"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3076"
+  },
+  "name": {
+    "common": "Bolivia",
+    "native": {
+      "aym": {
+        "common": "Wuliwya",
+        "official": "Wuliwya Suyu"
+      },
+      "grn": {
+        "common": "Volívia",
+        "official": "Tetã Volívia"
+      },
+      "que": {
+        "common": "Buliwya",
+        "official": "Buliwya Mamallaqta"
+      },
+      "spa": {
+        "common": "Bolivia",
+        "official": "Estado Plurinacional de Bolivia"
+      }
+    },
+    "official": "Plurinational State of Bolivia"
+  }
+},
+{
+  "_id": {
+    "$oid": "55a0f42f20a4d760b5fc3078"
+  },
+  "name": {
+    "common": "Brazil",
+    "native": {
+      "por": {
+        "common": "Brasil",
+        "official": "República Federativa do Brasil"
+      }
+    },
+    "official": "Federative Republic of Brazil"
+  }
+}]
