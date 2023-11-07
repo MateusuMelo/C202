@@ -1,0 +1,18 @@
+1#
+CREATE (Joao:Pessoa:Médico {Nome:'Joao', Sexo:'Masculino', Idade:35})
+CREATE (Bella:Cachorro {Nome:'Bella', Tipo:'Cachorro', Idade:4})
+CREATE (Maria:Pessoa:Engenheira {Nome:'Maria', Sexo:'Feminino', Idade:28})
+CREATE (Whiskers:Gato {Nome:'Whiskers', Tipo:'Gato', Idade:2})
+CREATE (Carlos:Pessoa:Professor {Nome:'Carlos', Sexo:'Masculino', Idade:45})
+CREATE (Rocky:Cachorro {Nome:'Rocky', Tipo:'Cachorro', Idade:6})
+CREATE (Ana:Pessoa:Advogada {Nome:'Ana', Sexo:'Feminino', Idade:32})
+CREATE (Luna:Gato {Nome:'Luna', Tipo:'Gato', Idade:3})
+CREATE (André:Pessoa:Chef {Nome:'André', Sexo:'Masculino', Idade:50})
+CREATE (Daisy:Cachorro {Nome:'Daisy', Tipo:'Cachorro', Idade:8})
+
+2#
+MATCH (n:Advogada {Nome: 'Ana'}) Match(m:Cachorro{Nome: 'Bella'}) CREATE (n)-[r:Dono_de]->(m) 
+MATCH (n:Pessoa {Nome: 'Joao'}) Match(m:Pessoa{Nome: 'Maria'}) CREATE (n)-[r:Irmao_de]->(m)
+MATCH (n:Pessoa {Nome: 'Carlos'}) Match(m:Pessoa{Nome: 'Ana'}) CREATE (n)-[r:Pai_de]->(m)
+MATCH (n:Pessoa {Nome: 'André'}) Match(m:Pessoa{Nome: 'Ana'}) CREATE (n)-[r:Namorado_de{Duração:"3 Anos"}]->(m)
+ 
