@@ -1,0 +1,13 @@
+CREATE TABLE estoque(
+	id INT,
+	nome TEXT,
+	carro TEXT,
+	estante INT,
+	nivel INT,
+	quantidade INT,
+	PRIMARY KEY((id, nome, carro),estante, nivel)
+);
+
+INSERT INTO estoque(id, nome, carro, estante, nivel, quantidade)VALUES(1, 'Velas de ignicao', 'HB20', 3, 2, 3000); 
+INSERT INTO estoque(id, nome, carro, estante, nivel, quantidade)VALUES(2, 'Filtro de oleo', 'Corolla', 3, 4, 253); 
+INSERT INTO estoque(id, nome, carro, estante, nivel, quantidade)VALUES(3, 'Caixa de cambio', 'Siena', 2, 6, 378);

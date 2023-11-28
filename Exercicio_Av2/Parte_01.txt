@@ -14,5 +14,4 @@ CREATE (Daisy:Cachorro {Nome:'Daisy', Tipo:'Cachorro', Idade:8})
 MATCH (n:Advogada {Nome: 'Ana'}) Match(m:Cachorro{Nome: 'Bella'}) CREATE (n)-[r:Dono_de]->(m) 
 MATCH (n:Pessoa {Nome: 'Joao'}) Match(m:Pessoa{Nome: 'Maria'}) CREATE (n)-[r:Irmao_de]->(m)
 MATCH (n:Pessoa {Nome: 'Carlos'}) Match(m:Pessoa{Nome: 'Ana'}) CREATE (n)-[r:Pai_de]->(m)
-MATCH (n:Pessoa {Nome: 'André'}) Match(m:Pessoa{Nome: 'Ana'}) CREATE (n)-[r:Namorado_de{Duração:"3 Anos"}]->(m)
- 
+MATCH (n:Pessoa {Nome: 'André'}) Match(m:Pessoa{Nome: 'Ana'}) CREATE (n)-[r:Namorado_de{Duração:"3 Anos"}]->(m); CRIANDO RELACIONAMENTO COM ATRIBUTOS 

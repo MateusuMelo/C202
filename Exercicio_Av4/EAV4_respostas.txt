@@ -1,0 +1,16 @@
+Questao 1
+INSERT INTO estoque(id, nome, carro, estante, nivel, quantidade)VALUES(5, 'Pistao', 'Mustang', 4, 1, 167);
+INSERT INTO estoque(id, nome, carro, estante, nivel, quantidade)VALUES(4, 'Suspencao', 'Argo', 1, 1, 3500);
+
+Questao 2
+SELECT * FROM estoque WHERE nome = 'pistão';
+SELECT AVG(quantidade) FROM estoque;
+SELECT COUNT(*) FROM estoque;
+SELECT COUNT(*) FROM estoque;
+SELECT MAX(quantidade), MIN(quantidade) FROM estoque;
+SELECT nome, carro, quantidade FROM estoque WHERE estante = 3;
+SELECT AVG(quantidade) FROM estoque WHERE nivel = 1;
+SELECT * FROM estoque WHERE estante < 3 AND nivel > 4;
+
+Questao 3
+Eav4Q3
